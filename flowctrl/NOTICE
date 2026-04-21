@@ -1,0 +1,13 @@
+Third-party notices — flowctrl
+
+The code in this directory is largely derived from CubeFS:
+
+  https://github.com/cubefs/cubefs/tree/master/util/flowctrl
+
+CubeFS is distributed under the Apache License, Version 2.0. A copy of that
+license is available at:
+
+  https://github.com/cubefs/cubefs/blob/master/LICENSE
+
+Modifications and additions may have been made in this repository; the
+upstream project retains copyright in the original material.
